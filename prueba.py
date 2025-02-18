@@ -38,3 +38,4 @@ if __name__ == "__main__":
     print("Factorial de 5:", factorial(5))
     print("2 elevado a la 3:", potencia(2, 3))
     print("¿Es 17 un número primo?", es_primo(17))
+Sexo o nel?
