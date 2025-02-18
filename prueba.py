@@ -38,4 +38,16 @@ if __name__ == "__main__":
     print("Factorial de 5:", factorial(5))
     print("2 elevado a la 3:", potencia(2, 3))
     print("¿Es 17 un número primo?", es_primo(17))
+<<<<<<< HEAD
 Sexo o nel?
+=======
+
+
+""" 
+Hola soy pakito kabeza :v 
+"""
+>>>>>>> 678c6b96e0bc27dae7c859775d292090135a091c
+
+"""
+Quien mierda esta modificando?
+"""
